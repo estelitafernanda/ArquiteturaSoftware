@@ -37,4 +37,3 @@ Este repositório contém uma explicação sobre três questões relacionadas à
 - **Paralelismo**: A arquitetura pode permitir a execução de filtros em paralelo, aumentando o desempenho do sistema.
 
 - **Extensibilidade**: Novos filtros podem ser facilmente adicionados para tratar novos tipos de transformações ou funcionalidades, permitindo a evolução do sistema sem grandes reestruturações.
-"""
